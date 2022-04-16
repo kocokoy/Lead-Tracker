@@ -21,3 +21,15 @@ button {
     font-stretch: condensed ;
     
 }
+ul{
+    margin-top: 20px;
+    list-style: none; 
+    padding-left: 0;
+    
+}
+li {
+  margin-top: 5px;
+}
+li a {
+    color:#5f9341;
+}
